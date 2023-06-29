@@ -2,7 +2,7 @@
 
 const visitsite = document.getElementById('visitsite');
 visitsite.addEventListener('click', function () {
-    const visitsiteURL = 'https://codekiduniya.blogspot.com/';
+    const visitsiteURL = 'https://codekiduniya.blogspot.com/    ';
     window.open(visitsiteURL, '_blank');
 });
 
